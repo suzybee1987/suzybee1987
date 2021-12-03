@@ -4,7 +4,7 @@ Hey,
 
 I'm Suzy, a Full Time Student with [Code Institute](https://codeinstitute.net/) learning their Full Stack Web Developer course while on sabbatical from Lloyds Banking Group.
 
-Before discovering the world of coding, I had a lot of customer service related jobs. Whilst during lockdowns was happening I decided to look at possible courses and I had the interest in coding in the past and was able to have a go at it a few years back, so I enrolled in a 5 day Coding Challenge from [Code Institute](https://codeinstitute.net/), wasnt sure what to expect, it was only 5 days of my life. but i enjoyed every single moment of it and it was then i decided it was time for a career change, so I enrolled on [Code Institute](https://codeinstitute.net/)'s Full Stack Developer course, where every day is a chance to learn something new.
+I have many years of experience in customer service and have always loved learning new things. My goal is to spend my day to day career being involved in something I am passionate about - coding! 
 
 ## Stack 
 
@@ -24,4 +24,4 @@ Before discovering the world of coding, I had a lot of customer service related 
 
 ## Contact me
 
-[<img src="./linked-in.png" width="250">](www.linkedin.com/in/suzy-bennett)
+[<img src="assets/images/ln.png" width="250">](www.linkedin.com/in/suzy-bennett)
