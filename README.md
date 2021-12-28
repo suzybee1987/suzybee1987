@@ -4,7 +4,9 @@ Hey,
 
 I'm Suzy, a Full Time Student with [Code Institute](https://codeinstitute.net/) learning their Full Stack Web Developer course while on sabbatical from Lloyds Banking Group.
 
-I have many years of experience in customer service and have always loved learning new things. My goal is to spend my day to day career being involved in something I am passionate about - coding! 
+I have many years of experience in customer service and have always loved learning new things. 
+My goal is to spend my day to day career being involved in something I am passionate about - coding! 
+I am currently a channel lead with [Code Institute](https://codeinstitute.net/) looking after the #project-milestone-1 channel and have conducted webinars on MS1 prep, HTML and CSS challenges and the use of Git. 
 
 ## Stack 
 
@@ -14,13 +16,22 @@ I have many years of experience in customer service and have always loved learni
 
 - ### **Future learning plans**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS logo" height="50px" width="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" height="50px" width="50px" />
 
 ## GitHub statistics
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=suzybee1987&show_icons=true&theme=prussian)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzybee1987&hide=html&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=suzybee1987&theme=onedark)](https://github.com/suzybee1987/github-profile-trophy)
+
+## Code Institute Badges 
+
+![channel_lead](channel_lead_badge.png)
 
 ## Contact me
 
