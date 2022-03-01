@@ -33,6 +33,9 @@ I am currently a channel lead with [Code Institute](https://codeinstitute.net/) 
 
 ![channel_lead](channel_lead_badge.png)
 
+## CodeWars Profile
+![](https://www.codewars.com/users/suzybennett87/badges/large)
+
 ## Contact me
 
 [<img src="assets/images/ln.png" width="250">](www.linkedin.com/in/suzy-bennett)
